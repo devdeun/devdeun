@@ -1,6 +1,6 @@
 ### deun
 
-<sup>Frontend Engineer</sup>
+Frontend Engineer
 
 <b><sup>Experience</sup></b> <br />
 <sup>당근 알바(Local Jobs) Software Engineer Intern, Frontend (2025.05 ~ 2025.08)</sup> <br />
